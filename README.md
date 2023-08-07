@@ -2,9 +2,6 @@
   
 ![header](https://capsule-render.vercel.app/api?type=egg&color=#6768abauto&height=250&section=header&text=Hello%20I'm%20SuYong&fontSize=60&font-color=#white)
 
-# 🛠현재 깃 공사중입니다🛠
-
-
 #### 미정
 
 #### 미정
