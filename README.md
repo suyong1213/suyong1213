@@ -27,6 +27,14 @@
 #### [<img src="https://img.shields.io/badge/Unity와 Pun을 이용한 3D로비 및 다중 방 입장형태 온라인 게임-00000?style=flat&logo=condaforge&logoColor=black"/>](https://github.com/jsh991226/ProjectHIM)
 #### [<img src="https://img.shields.io/badge/Unity와 Pun을 이용한 3D 멀티 리듬게임-FA243C?style=flat&logo=applemusic&logoColor=black"/>](https://github.com/jsh991226/dotWPublic) 
 
+<div align="center" style="text-align:center">
+  //  위 아래 한칸씩 꼭 비워야 함.
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=${velog닉네임}&tag=${태그}&color=${테마})](${링크 url})
+  //  위 아래 한칸씩 꼭 비워야 함.
+</div>
 
+// 사용 옵션
+&tag : 해당 옵션을 넣으면 해당태그의 최신글을 가져온다.
+&color : dark
 </div>
 
