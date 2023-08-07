@@ -21,8 +21,8 @@
 
 ### 👨‍💻 About Me:
 
-- 2012년부터 본격적으로 개발을 시작하여 Java부터 Javascript를 사용했습니다.
-- React, Electron에 관심을 갖고 공부 중입니다.
+ 2012년부터 본격적으로 개발을 시작하여 Java부터 Javascript를 사용했습니다.
+ React, Electron에 관심을 갖고 공부 중입니다.
 
 ---
 
