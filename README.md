@@ -23,7 +23,7 @@
 
 ## 🥇 Awesome Project 🥇
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=${velog닉네임}&tag=${태그}&color=${dark})](${링크 url})
+![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=${velog닉네임}&tag=${태그}&color=${dark})](${링크 url})
 
 
 
