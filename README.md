@@ -24,28 +24,23 @@
 
 ---
 
-### 🛠 Tech Stack:
+### 💻 Tech Stack 💻
 
-![java](https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white)
-![javascript](https://img.shields.io/badge/JAVASCRIPT-F7D1E?style=flat-square&logo=JavaScript&logoColor=white)
-![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
-![html5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![css3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+<img src="https://img.shields.io/badge/UNITY-FFFFFF?style=flat&logo=unity&logoColor=black"/>
+<img src="https://img.shields.io/badge/CSharp-239120?style=flat&logo=csharp&logoColor=black"/>
+<img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat&logo=mysql&logoColor=black"/>
+<img src="https://img.shields.io/badge/PhotonNetwork-4479A1?style=flat&logo=photonnetwork&logoColor=black"/>
 
-![spring](https://img.shields.io/badge/Sprring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+<br/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=black"/>
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/>
+<img src="https://img.shields.io/badge/JQuery-0769AD?style=flat&logo=jquery&logoColor=black"/>
 
-![eclipse](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white)
-![visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
 
-![nodejs](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
-![tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat-square&logo=Apache%20Tomcat&logoColor=white)
+<br/><br/>
 
-![mongodb](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
-![mysql](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-
-![linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white)
-![windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
-![macos](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white)
 
 ---
 
