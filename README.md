@@ -1,6 +1,6 @@
 <div align=center>
   
-![KSY](https://capsule-render.vercel.app/api?type=Egg&color=auto&height=150&section=header&text=Hello%I'm SuYong&fontSize=45)
+![KSY](https://capsule-render.vercel.app/api?type=Egg&color=auto&height=150&section=header&text=Hello<br>I'm SuYong&fontSize=45)
 
 # 🛠현재 깃 공사중입니다🛠
 
